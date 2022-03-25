@@ -8,8 +8,6 @@ h1 {
     font-weight: bold;
     color: khaki;
     background-image:url(../images/pattern.webp);
-    border: 4px solid black;
-    border-radius: 8px;
 }
 
 h2 {
@@ -20,21 +18,15 @@ h2 {
 
 .brushes {
     background-color: mediumspringgreen;
-    border: 4px solid skyblue;
-    border-radius: 8px;
     
 }
 .frames {
     background-color: lightcoral;
-    border: 4px solid mediumspringgreen;
-    border-radius: 8px;
     
 }
 
 .paint {
     background-color: skyblue;
-    border: 4px solid lightcoral;
-    border-radius: 8px;
     
 }
 
@@ -54,9 +46,4 @@ p {
 }
 figure {
     margin-left: 0;
-
-}
-img {
-    border: 4px solid lightseagreen;
-    border-radius: 4px;
 }
